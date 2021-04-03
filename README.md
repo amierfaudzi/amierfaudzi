@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+
+My name is Amier and I am a mechanical engineer turned web developer!
 
 [![Amier's GitHub stats](https://github-readme-stats.vercel.app/api?username=amierfaudzi)](https://github.com/amierfaudzi/github-readme-stats)
 
