@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Amier's GitHub stats](https://github-readme-stats.vercel.app/api?username=amierfaudzi)](https://github.com/amierfaudzi/github-readme-stats)
+
 <!--
 **amierfaudzi/amierfaudzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
