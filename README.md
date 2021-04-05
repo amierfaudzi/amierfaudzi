@@ -4,4 +4,5 @@ I am a web developer with a background in mechanical engineering. I have always 
 <a href="https://www.linkedin.com/in/amierfaudzi/">LinkedIn</a> or <a href="https://twitter.com/FaudziAmier">Twitter</a>!
 
 [![Amier's GitHub stats](https://github-readme-stats.vercel.app/api?username=amierfaudzi&theme=radical&show_icons=true&hide=issues&include_all_commits=true&count_private=true)](https://github.com/amierfaudzi/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amierfaudzi&layout=compact&theme=radical)](https://github.com/amierfaudzi/github-readme-stats)
